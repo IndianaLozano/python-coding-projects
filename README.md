@@ -1,5 +1,7 @@
 # Python Project Setup with Flask 🚀
 
+Some code is built with the instructions from https://www.freecodecamp.org/. 
+
 A guide to setting up and running Python projects with Flask, a lightweight and flexible web framework.
 
 ## 🛠️ Setup Instructions
